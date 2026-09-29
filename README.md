@@ -18,6 +18,7 @@ Hover to find the frame. Click to capture.</p>
 - **Share** — Windows share, email, Gmail, Outlook.com, X, Facebook, LinkedIn, Threads, Bluesky.
 - **Preview your way** — keep the preview open, or let it fade out after 0–5 seconds.
 - **Your shortcuts** — PrtScn by default; set any key combination you like.
+- **English · 日本語 · Español** — switch the display language any time.
 - **Tiny and portable** — a single ~0.6 MB `.exe`. No installer, no account, no ads, no watermark.
 
 <p align="center"><img src="docs/launcher.png" width="360" alt="GOCLIP main window"></p>
