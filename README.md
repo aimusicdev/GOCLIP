@@ -16,6 +16,7 @@ Hover to find the frame. Click to capture.</p>
 - **Save anywhere** — This PC, Google Drive, OneDrive, Dropbox, iCloud Drive, Box, a NAS or any folder.
 - **Share** — Windows share, email, Gmail, Outlook.com, X, Facebook, LinkedIn, Threads, Bluesky.
 - **Preview your way** — keep the preview open, or let it fade out after 0–5 seconds.
+- **Your shortcuts** — PrtScn by default; set any key combination you like.
 - **Tiny and portable** — a single ~0.6 MB `.exe`. No installer, no account, no ads, no watermark.
 
 <p align="center"><img src="docs/launcher.png" width="360" alt="GOCLIP main window"></p>
@@ -28,8 +29,10 @@ Hover to find the frame. Click to capture.</p>
 
 | Action | Shortcut |
 |---|---|
-| Capture image | `PrtScn` or `Ctrl+Shift+1` |
-| Record video (press again to stop) | `Shift+PrtScn` or `Ctrl+Shift+2` |
+| Capture image | `PrtScn` |
+| Record video (press again to stop) | `Shift+PrtScn` |
+
+Change either shortcut under **SHORTCUTS** in the GOCLIP window — click the key box and press the new keys. If another app also uses PrtScn, GOCLIP takes priority while it runs.
 
 While selecting: **click** a frame · **drag** your own area · **wheel** wider / finer · **Space** whole monitor · **arrow keys** move 1 px · **Esc** cancel.
 
@@ -40,8 +43,6 @@ While selecting: **click** a frame · **drag** your own area · **wheel** wider 
 Windows 10 (version 2004 or later) or Windows 11, 64‑bit. Uses the H.264/AAC encoders built into Windows; nothing else to install.
 
 > **"Windows protected your PC"?** New apps show this until they build a reputation. Click **More info → Run anyway**.
-
-> **PrtScn does nothing?** Another app (or Windows' "Use the Print screen key to open screen capture" setting) owns the key. Use `Ctrl+Shift+1` / `Ctrl+Shift+2`.
 
 ## Privacy
 
