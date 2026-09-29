@@ -21,7 +21,29 @@ Hover to find the frame. Click to capture.</p>
 - **English · 日本語 · Español** — switch the display language any time.
 - **Tiny and portable** — a single ~0.6 MB `.exe`. No installer, no account, no ads, no watermark.
 
-<p align="center"><img src="docs/launcher.png" width="360" alt="GOCLIP main window"></p>
+## Screenshots
+
+**Hover to find the frame.** GOCLIP highlights the window, panel or element under the mouse — click to capture it.
+
+<p align="center"><img src="docs/frame-detection.png" width="820" alt="Frame detection while hovering"></p>
+
+**Hide what shouldn't be seen.** Drag over any number of areas in the preview.
+
+<p align="center"><img src="docs/image-mosaic.png" width="620" alt="Mosaic on an image"></p>
+
+**Mosaic in videos, with timing and motion tracking.** Each area has its own start and end on the timeline; turn on *Follow motion* and it stays on moving content.
+
+<p align="center"><img src="docs/video-mosaic.png" width="820" alt="Video mosaic editor"></p>
+
+**Everything in one small window** — shortcuts, audio, storage, preview behaviour, language.
+
+<p align="center"><img src="docs/launcher.png" width="340" alt="GOCLIP main window"></p>
+
+**English · 日本語 · Español**
+
+<p align="center"><img src="docs/languages.png" width="820" alt="GOCLIP in English, Japanese and Spanish"></p>
+
+<sub>Screenshots use an invented demo app and contact details.</sub>
 
 ## Get started
 
@@ -38,7 +60,7 @@ Change either shortcut under **SHORTCUTS** in the GOCLIP window — click the ke
 
 While selecting: **click** a frame · **drag** your own area · **wheel** wider / finer · **Space** whole monitor · **arrow keys** move 1 px · **Esc** cancel.
 
-<p align="center"><img src="docs/toolbar.png" alt="Recording toolbar"></p>
+<p align="center"><img src="docs/recording-toolbar.png" alt="Recording toolbar"></p>
 
 ## Requirements
 
