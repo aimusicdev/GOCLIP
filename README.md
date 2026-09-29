@@ -13,6 +13,7 @@ Hover to find the frame. Click to capture.</p>
 - **Smart frame detection** — move the mouse and GOCLIP highlights the window, pane, toolbar, button or web‑page block under the cursor. The highlight follows every move. Scroll the wheel for a wider or finer frame.
 - **Images** — PNG, saved and copied to the clipboard in one click.
 - **Video with sound** — MP4 (H.264 + AAC). Record system audio, your microphone, or both. Pause, resume, stop or discard; the red frame and toolbar never show up in the video.
+- **Mosaic** — hide any number of areas in images and videos. In videos, set a start and end for each area, and let it follow moving content.
 - **Save anywhere** — This PC, Google Drive, OneDrive, Dropbox, iCloud Drive, Box, a NAS or any folder.
 - **Share** — Windows share, email, Gmail, Outlook.com, X, Facebook, LinkedIn, Threads, Bluesky.
 - **Preview your way** — keep the preview open, or let it fade out after 0–5 seconds.
