@@ -15,7 +15,7 @@ Hover to find the frame. Click to capture.</p>
 - **Video with sound** — MP4 (H.264 + AAC). Record system audio, your microphone, or both. Pause, resume, stop or discard; the red frame and toolbar never show up in the video.
 - **Mosaic** — hide any number of areas in images and videos. In videos, set a start and end for each area, and let it follow moving content.
 - **Full screen fast** — top edge = that monitor, Shift + top edge = all displays.
-- **History strip** — drag captures straight into other apps; keep 5 (or up to 50), older ones recycled automatically.
+- **Library & history** — your latest captures sit in the main window and in a strip after each capture; drag them straight into other apps. Keep 5 (or up to 50), older ones recycled automatically.
 - **Crop** — Free, 1:1, 4:3, 3:2, 16:9, 9:16, 4:5.
 - **Save anywhere** — This PC, Google Drive, OneDrive, Dropbox, iCloud Drive, Box, a NAS or any folder.
 - **Share** — Windows share, email, Gmail, Outlook.com, X, Facebook, LinkedIn, Threads, Bluesky.
@@ -34,7 +34,7 @@ Hover to find the frame. Click to capture.</p>
 
 <p align="center"><img src="docs/full-screen.png" width="820" alt="Top edge selects the full screen"></p>
 
-**History you can drag from.** Your latest captures stay one drag away from any app, chat, e-mail or folder. Keep as many as you like (5 by default); older ones go to the Recycle Bin.
+**A library you can drag from.** Your latest captures stay one drag away from any app, chat, e-mail or folder — from the LIBRARY row in the main window, or from the strip that appears after each capture. Keep as many as you like (5 by default); older ones go to the Recycle Bin.
 
 <p align="center"><img src="docs/history.png" width="700" alt="History strip"></p>
 
