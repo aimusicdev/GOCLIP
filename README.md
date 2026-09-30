@@ -15,11 +15,10 @@ Hover to find the frame. Click to capture.</p>
 - **Video with sound** — MP4 (H.264 + AAC). Record system audio, your microphone, or both. Pause, resume, stop or discard; the red frame and toolbar never show up in the video.
 - **Mosaic** — hide any number of areas in images and videos. In videos, set a start and end for each area, and let it follow moving content.
 - **Full screen fast** — top edge = that monitor, Shift + top edge = all displays.
-- **Library & history** — your latest captures sit in the main window and in a strip after each capture; drag them straight into other apps. Keep 5 (or up to 50), older ones recycled automatically.
+- **One window at a time** — after a capture only the Library strip appears: drag a capture into any app, double‑click to edit, close the editor to return. Let it close by itself after a set time, or close it yourself to get the main window. Keep 5 captures (or up to 50); older ones are recycled automatically.
 - **Crop** — Free, 1:1, 4:3, 3:2, 16:9, 9:16, 4:5.
 - **Save anywhere** — This PC, Google Drive, OneDrive, Dropbox, iCloud Drive, Box, a NAS or any folder.
 - **Share** — Windows share, email, Gmail, Outlook.com, X, Facebook, LinkedIn, Threads, Bluesky.
-- **Preview your way** — keep the preview open, or let it fade out after 0–5 seconds.
 - **Your shortcuts** — PrtScn by default; set any key combination you like.
 - **English · 日本語 · Español** — switch the display language any time.
 - **Tiny and portable** — a single ~0.6 MB `.exe`. No installer, no account, no ads, no watermark.
@@ -34,15 +33,15 @@ Hover to find the frame. Click to capture.</p>
 
 <p align="center"><img src="docs/full-screen.png" width="820" alt="Top edge selects the full screen"></p>
 
-**A library you can drag from.** Your latest captures stay one drag away from any app, chat, e-mail or folder — from the LIBRARY row in the main window, or from the strip that appears after each capture. Keep as many as you like (5 by default); older ones go to the Recycle Bin.
+**A library you can drag from.** After each capture only this strip appears. Drag a capture into any app, chat, e-mail or folder; double‑click to edit it (the strip steps aside, and comes back — with your edit marked — when you close the editor). Under **HISTORY › Library window** choose *Keep open* or *Auto close* after 0–5 s; hovering keeps it open. Close it yourself and the main window appears. Keep as many captures as you like (5 by default); older ones go to the Recycle Bin.
 
-<p align="center"><img src="docs/history.png" width="700" alt="History strip"></p>
+<p align="center"><img src="docs/history.png" width="700" alt="Library strip"></p>
 
 **Crop with presets** — Free, 1:1, 4:3, 3:2, 16:9, 9:16, 4:5.
 
 <p align="center"><img src="docs/crop.png" width="700" alt="Crop with aspect presets"></p>
 
-**Hide what shouldn't be seen.** Drag over any number of areas in the preview.
+**Hide what shouldn't be seen.** Drag over any number of areas in the editor.
 
 <p align="center"><img src="docs/image-mosaic.png" width="620" alt="Mosaic on an image"></p>
 
@@ -50,7 +49,7 @@ Hover to find the frame. Click to capture.</p>
 
 <p align="center"><img src="docs/video-mosaic.png" width="820" alt="Video mosaic editor"></p>
 
-**Everything in one small window** — shortcuts, audio, storage, preview behaviour, language.
+**Everything in one small window** — shortcuts, audio, storage, library window, language.
 
 <p align="center"><img src="docs/launcher.png" width="340" alt="GOCLIP main window"></p>
 
