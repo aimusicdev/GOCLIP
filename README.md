@@ -84,7 +84,7 @@ Windows 10 (version 2004 or later) or Windows 11, 64‑bit. Uses the H.264/AAC e
 
 ## Privacy
 
-GOCLIP runs entirely on your PC. It sends nothing anywhere unless you choose to share.
+GOCLIP runs entirely on your PC. It sends nothing anywhere unless you choose to share. The only thing it looks up is whether a newer version exists: when it starts and once a day it reads the public latest-release page of this repository on GitHub (turn it off with **Check for updates**). When there is one, GOCLIP shows a notice and a link to the download page; it never downloads or installs anything by itself.
 
 ## License
 
