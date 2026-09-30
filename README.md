@@ -71,7 +71,7 @@ Hover to find the frame. Click to capture.</p>
 | Capture image | `PrtScn` |
 | Record video (press again to stop) | `Shift+PrtScn` |
 
-Change either shortcut under **SHORTCUTS** in the GOCLIP window — click the key box and press the new keys. If another app also uses PrtScn, GOCLIP takes priority while it runs.
+Change either shortcut under **SHORTCUTS** in the GOCLIP window — click the key box and press the new keys. If another app also uses PrtScn, GOCLIP takes priority while it runs. **Start with Windows** is on by default so this holds after every restart; if you turn it off, PrtScn goes back to the other app whenever GOCLIP is not running.
 
 While selecting: **click** a frame · **drag** your own area · **wheel** wider / finer · **top edge** whole monitor (**+Shift** all displays) · **arrow keys** move 1 px · **Esc** cancel.
 
